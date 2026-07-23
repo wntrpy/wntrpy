@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moses Armildez</h1>
+<h1 align="center">Hello World!, I'm Moses Armildez</h1>
 <h3 align="center">Mobile & Web Developer | Flutter · Firebase · JavaScript</h3>
 
 ---
@@ -32,7 +32,7 @@
 
 ### 🚀 Featured Projects
 
-**[SignTalk](#)** — Real-time sign language translation app *(Flutter, Firebase, Riverpod)*
+**[SignTalk](https://github.com/wntrpy/SignTalk)** — Real-time sign language translation app *(Flutter, Firebase, Riverpod)*
 Real-time chat, text, and voice communication between sign language users and others; synchronized messaging with Firebase and Riverpod state management.
 
 **[E-Scholarship Management & Information Database System](#)** — *(HTML, CSS, JavaScript, PHP)*
@@ -41,7 +41,6 @@ Web-based scholarship application and management system with CRUD operations and
 **[Vape Shop Point of Sale System](#)** — *(Java, JavaFX, CSS, MySQL)*
 JavaFX-based POS system handling sales, inventory, and core retail transaction management.
 
-> 📌 Tip: Replace the `#` links above with the actual repo URLs once pushed, or pin these repos directly on your profile for a cleaner look.
 
 ---
 
