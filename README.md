@@ -35,10 +35,7 @@
 **[SignTalk](https://github.com/wntrpy/SignTalk)** — Real-time sign language translation app *(Flutter, Firebase, Riverpod)*
 Real-time chat, text, and voice communication between sign language users and others; synchronized messaging with Firebase and Riverpod state management.
 
-**[E-Scholarship Management & Information Database System](#)** — *(HTML, CSS, JavaScript, PHP)*
-Web-based scholarship application and management system with CRUD operations and applicant record tracking.
-
-**[Vape Shop Point of Sale System](#)** — *(Java, JavaFX, CSS, MySQL)*
+**[Vape Shop Point of Sale System](https://github.com/wntrpy/POS)** — *(Java, JavaFX, CSS, MySQL)*
 JavaFX-based POS system handling sales, inventory, and core retail transaction management.
 
 
