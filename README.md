@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!, I'm Moses Armildez</h1>
-<h3 align="center">Mobile & Web Developer | Flutter · Firebase · JavaScript</h3>
+<h3 align="center">Mobile & Web Developer
 
 ---
 
