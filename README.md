@@ -47,7 +47,7 @@ JavaFX-based POS system handling sales, inventory, and core retail transaction m
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wntrpy&show_icons=true&theme=default" alt="Moses's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=wntrpy&show_icons=true&theme=default" alt="Moses's GitHub Stats" height="165"/>
 </p>
 
 ---
