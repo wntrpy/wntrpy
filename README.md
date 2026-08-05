@@ -38,6 +38,8 @@ Real-time chat, text, and voice communication between sign language users and ot
 **[Vape Shop Point of Sale System](https://github.com/wntrpy/POS)** — *(Java, JavaFX, CSS, MySQL)*
 JavaFX-based POS system handling sales, inventory, and core retail transaction management.
 
+**[E-Scholarship Management and Information Database System](https://github.com/wntrpy/E-Scholarship-Management-and-Information-Database-System)** — *(HTML, CSS, JavaScript, PHP, MySQL)*
+A web-based scholarship management system that streamlines application processing, document submission, and role-based administration for applicants, scholars, staff, and head staff.
 
 ---
 
